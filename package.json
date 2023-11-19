@@ -1,0 +1,23 @@
+{
+  "name": "electron-boilerplate",
+  "version": "1.0.0",
+  "description": "Electron boilerplate for making desktop applications",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moefc32/electron-boilerplate.git"
+  },
+  "author": "Faizal Chan.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moefc32/electron-boilerplate/issues"
+  },
+  "homepage": "https://github.com/moefc32/electron-boilerplate#readme",
+  "devDependencies": {
+    "electron": "^27.1.0"
+  }
+}
